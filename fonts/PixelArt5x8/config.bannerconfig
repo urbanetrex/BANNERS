@@ -1,0 +1,17 @@
+[General]
+fontName = Pixel Art 5x8
+designer = urbanetrex
+version = 1.0
+gridWidth = 5
+gridHeight = 8
+defaultSpacing = 1
+
+[Files]
+uppercase = letters/uppercase.bannerfont
+lowercase = letters/lowercase.bannerfont
+numbers = numbers.bannerfont
+symbols = symbols.bannerfont
+
+[Rendering]
+backgroundChar = " "
+singleCharType = "#"
